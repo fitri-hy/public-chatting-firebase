@@ -49,3 +49,5 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ### Don't forget to leave a star
+
+<img src="./public/ss.png">
